@@ -33,6 +33,14 @@ Key features include role-based access control, vault-integrated secrets managem
 [![Last Commit](https://img.shields.io/github/last-commit/VaultScope/VaultScope-Enterprise?style=flat-square)](https://github.com/VaultScope/VaultScope-Enterprise/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/VaultScope/VaultScope-Enterprise?style=flat-square)](https://github.com/VaultScope/VaultScope-Enterprise/issues)
 
+### [VaultScope-Statistics](https://github.com/VaultScope/statistics)
+
+VaultScope Statistics is a comprehensive system monitoring solution that provides real-time insights into your infrastructure. Built with TypeScript, Express.js, and Next.js, it offers both a robust REST API server and an intuitive web dashboard for visualization and management.
+
+[![GitHub Stars](https://img.shields.io/github/stars/VaultScope/statistics?style=flat-square)](https://github.com/VaultScope/statistics/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/VaultScope/statistics?style=flat-square)](https://github.com/VaultScope/statistics/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/VaultScope/statistics?style=flat-square)](https://github.com/VaultScope/statistics/issues)
+
 ---
 
 ## Technology Ecosystem
