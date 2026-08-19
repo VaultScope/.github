@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./darkmode-logo.png" alt="VaultScope" width="700">
+<img src="https://github.com/VaultScope/.github/tree/main/darkmode-logo.png" alt="VaultScope" width="700">
 
 **Beyond Today. Built For What’s Next.**
 
