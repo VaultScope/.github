@@ -8,7 +8,7 @@ Infrastructure & hosting for developers, teams, and businesses.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-vaultscope.dev-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vaultscope.dev)
+[![Website](https://img.shields.io/badge/Website-vaultscope.de-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vaultscope.de)
 [![GitHub](https://img.shields.io/badge/GitHub-VaultScope-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VaultScope)
 
 </div>
